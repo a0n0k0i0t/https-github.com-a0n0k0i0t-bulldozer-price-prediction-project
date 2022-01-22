@@ -1,5 +1,5 @@
 # Prediction the Sale Price of Bulldozers using Machine Learning   
-[Jupyter notebook of the Machine Learning model and Prediction Values](https://github.com/a0n0k0i0t/https-github.com-a0n0k0i0t-bulldozer-price-prediction-project/blob/master/end-to-end-bulldozer-price-regression.ipynb)   
+[Jupyter notebook of the Project](https://github.com/a0n0k0i0t/https-github.com-a0n0k0i0t-bulldozer-price-prediction-project/blob/master/end-to-end-bulldozer-price-regression.ipynb)   
 Predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers.
 
 ## 1.Problem
